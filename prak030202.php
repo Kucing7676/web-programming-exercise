@@ -22,6 +22,6 @@
         return $selisih * $denda;
     }
 
-    echo "jadi hasilnya Rp.", hitungDenda("2021-01-03", "2021-01-05");
+    echo "Besarnya denda adalah: Rp.", hitungDenda("2021-01-03", "2021-01-05");
 
 ?>
