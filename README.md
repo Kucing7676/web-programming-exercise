@@ -3,8 +3,8 @@
 Menggunakan bahasa pemrograman **PHP**
 
 
-| Nama    | Royan Gagas Pradana  |
+| Nama    | Faizal Ali Apriyono  |
 |:-------:|:--------------------:|
-| NIM     | K3519074             |
-| Kelas   | PTIK B               |
+| NIM     | K3519031             |
+| Kelas   | PTIK A               |
 
